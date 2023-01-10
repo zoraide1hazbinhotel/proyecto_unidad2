@@ -1,0 +1,123 @@
+body {
+    background-color:#dac9df;
+    }
+    
+.contenido_titulo{
+        border: 2px solid rgb(209, 208, 208);
+        background-image:url(https://img.freepik.com/vector-gratis/diseno-patron-pow-colorido-lindo-gatito_1017-14710.jpg);
+        opacity: ;
+        background-color: rgb(222, 224, 230);
+        margin-left: 150px;
+        margin-right: 150px;
+        margin-top: 50px;
+        padding: 2px 0px 20px 20px;
+    }
+    
+.contenido_gatito {
+      border: 2px solid rgb(209, 208, 208);
+      background-color: white;
+      margin-left:150px;
+      margin-right: 150px;
+      margin-top: 50px;
+      padding: 2px 0px 20px 20px;
+    }
+    
+#el_gatito {
+      display:inline-block;
+    }
+h3{
+      font-family:'Courier New', Courier, monospace;
+    }
+h1{
+      font-family:'Courier New', Courier, monospace;
+    }
+    
+p {
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+#contenido_titulo_left{
+        width: 400px;
+        display:inline-block;
+    }
+#contenido_titulo_right{ 
+        padding-left: 550px;
+        display:inline-block;
+        text-align: right;
+    }
+#titulo_teyezo{
+        margin-bottom: 0px;
+        margin-top: 40px;   
+    }
+.parrafo_titulo{
+        margin-top: 6px;
+    
+    }
+.link_titulo{
+        margin-left: 15px;
+    }
+.sub_titulo{
+       margin-left: 150px;
+        margin-right: 150px;
+    }
+#buscador{
+      margin-top: 70px;
+      margin-left: 180px;
+      font-size: 1.6rem;
+      display: inline-grid;
+    }
+#button_buscar{
+      margin-left: 600px;
+      margin-top: 0px;
+      width: 120px;
+      height: 60px;
+      font-size: 1.2rem;
+       border: 0px none;
+      border-radius: 20px;
+       background-color: #ca6dca;
+      color: white;
+      overflow: hidden;
+       transition: 0.2s;
+    }
+#button_buscar:hover{
+      background: #a945c7;
+      box-shadow: 0 0 10px #a945c7, 0  0 40px #a945c7, 0 0 80px #a945c7;
+    }
+#buscador #input_palabraInicial{
+      width: 200px;
+      height: 50px;
+    }
+#contraseña{
+      margin-top: 0px;
+      margin-left: 550px;
+      font-size: 1.6rem;
+      padding-top: 0px;
+      display: inline-grid;
+    }
+#contraseña #input_nuevaContraseña{
+      width: 200px;
+      height: 50px;
+    }
+.propaganda{
+      width: 500px;
+      height: 200px;
+      margin: 30px 40px 20px 80px;
+    }
+.opciones{
+     display: inline-block;
+      margin-top: 30px;
+    }
+#opcion_numero{
+      margin-left: 150px;
+    }
+#opcion_mayuscula  #opcion_signo{
+      margin-left: 30px;
+    }
+label{
+      font-size: 1.2rem;
+    }
+.propaganda_rigth{
+    width: 200px;
+    height: 200px;
+    float: right;
+    }
+    
